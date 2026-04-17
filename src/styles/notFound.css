@@ -1,0 +1,9 @@
+.not-found {
+  text-align: center;
+  margin-top: 3rem;
+}
+
+.not-found h1 {
+  font-size: 3rem;
+  color: crimson;
+}
